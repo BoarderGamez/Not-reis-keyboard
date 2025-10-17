@@ -10,8 +10,3 @@ This is my journal of the design and building process of **Not Reis Keyboard tm*
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/571).
 
 
-## 10/17/2025 - First I created the project  
-
-So today what I did is I stalked another hc member went to their property and then I took inspiration from pcbs they had I showed with no notice and I stole their Internet. Furthermore I installed regolith. I went and made a mess. They didn't mind and I did not clean it up. I also made the other hc members unrpoductive.![WIN_20251017_19_27_41_Pro.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0b5e88b5df3b5a87dc5bf65735cfbe6fb4aff73/WIN_20251017_19_27_41_Pro.jpg)
-  
-
