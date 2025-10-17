@@ -6,7 +6,19 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Not Reis Keyboard tm**.  
+This is my journal of the design and building process of **The Not Reis Keyboard**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/571).
 
+
+## 10/17/2025 - Started on the keyboard (Almost) Finished the schematics  
+
+So today I started on the schematic for my keyboard. Firstly I decided to make it 40% because, even with nvim it is a lot of work to press the number keys which is a waste of time. Which is why I decided on 40% with 8 modifier keys, 4 on each side. There are some other decisions I made for the keyboard:
+
+- Split: To enhance my productivity and make it ergonomic and get no wrist pain
+- Reversable PCB: To make the pcb cheaper to produce (only one pcb), so that I can spend more money on high quality parts and finish.
+- Wired: To me wireless keyboards etc are a quite a hassle, charge them, turn them on and connecting bluetooth. Which is why I went for a wired keyboard as it is simple, plug it in, and it works.
+
+I plan to add backlight and hotswap but I'm not at that point yet.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--78454f9f837ca0269064d29f36f6e4e58d7df597/image.png)  
 
