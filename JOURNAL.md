@@ -22,3 +22,15 @@ I plan to add backlight and hotswap but I'm not at that point yet.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--78454f9f837ca0269064d29f36f6e4e58d7df597/image.png)  
 
+## 10/18/2025 - Perfected the layout  
+
+So I was not feeling like working on the pcb, which is why I decided to finalise the layout of the keyboard. So, there were many decisions which I made to get to the current layout:
+
+- Thumb cluster. In the schematics I already decided on 3 keys in the thumb cluster. (As if I put 4+ I wouldn't use all those keys.) But I had to figure out the placement of the thumb keys. So What I did is I went on youtube and looked at split keyboard thumb clusters. For the thumb cluster I decided to have something similar to the scotto keebs [ScottoFly](https://scottokeebs.com/blogs/keyboards/scottofly-handwired-keyboard). 3 keys in thumb's reach. But I also saw a keyboard in a video from ajackster whith 2 2U keys in the thumb cluster, So I took that Idea and put it in the design. And in the end I got 2 1.5U Keys and a 1U key for the thumb cluster
+- Pinky area. Unlike other fingers, pinkies are much more angled than other fingers, which is why I rotated the pinky keys by 10 degrees to reduce pinky strain.
+- Macro keys. I decided to implement 4macro keys on the keyboard for efficiency. One near the index finger and 3 at the pinky. Macro keys are very versatile and are usefull for efficiency.
+
+![keyboard-layout.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk5NywicHVyIjoiYmxvYl9pZCJ9fQ==--766207a5d26a2324ac89ad301004164940d82cb8/keyboard-layout.png)
+
+  
+
