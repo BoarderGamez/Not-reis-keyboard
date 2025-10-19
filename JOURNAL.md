@@ -34,7 +34,7 @@ PS: It took 1h 20m because I went through many iterations and watched many youtu
 
   
 
-## 10/19/2025 - Almost finished routing  
+## 10/19/2025 11:41 AM - Almost finished routing  
 
 So I spent a LOT of time working on the project so I'm gonna write it step by step to make it more cohesive.
 
@@ -46,4 +46,13 @@ So I spent a LOT of time working on the project so I'm gonna write it step by st
 
 - Next, routing. This by far was the longest step of making the pcb as I had to route about 100 things AND make it pretty. Unfotunetly I do not have a screenshot for this even but you have to believe me. I ended that day with about the pcb being half routed. It took a long time because I had different rotations and I didn't want my pcb to look like cracked glass like some pcbs so it took hours.
 PS: I wrote this the day after which is why so many journal in conjunction  
+
+## 10/19/2025 11:54 AM - Finished the pcb fully  
+
+So today I finished the entire pcb + art. At the start of the day I had only a half finished pcb (as in routing) so I did the following things:
+
+- Finished the routing of the pcb: This morning I came in, to Lukas Reis basement and I finished routing the keyboard. This took a long time as I wanted to make the traces look nice and not like cracked glass.  ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b7fc0cb30d1ba4ba1482d3f22fc60fb36f019747/image.png)
+
+- Art: I put in very aesthetic art to make the keyboard more appealing. This was annoying because I have a double sided keyboard and I have to make reversed copies of those to make it work on both sides. Also ground layer! Here it is: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d5a26dbaeb8f999d11cfd4e24a62750d7cca8e8d/image.png)
+  
 
