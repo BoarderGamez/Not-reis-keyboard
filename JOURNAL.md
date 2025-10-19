@@ -34,3 +34,16 @@ PS: It took 1h 20m because I went through many iterations and watched many youtu
 
   
 
+## 10/19/2025 - Almost finished routing  
+
+So I spent a LOT of time working on the project so I'm gonna write it step by step to make it more cohesive.
+
+- Perfected the schematics: I changed what the location of connections in the schematic to make routing easier. For example I move the Usb C Tx and Rx connections closer to the actually Usb port on the microcontroller to make it more simple for wiring. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--921025bab1bd3f5f825d5572ea00161de175f181/image.png)
+- Asigned footprints: I picked what components I was gonna use on my keyboard. For the switches I picked the standard mx style hotswap switches for greater customisability and versatility. For the usb port I picked a Usb C port that's pretty much in the middle of the PCB as my pcb is reversable.
+- Organised all the components in the pcb: After routing this step took the most amount of time. As my Pcb is reversable I have to get all components double and put them on top of eachother and flip them. This has to be done exactly or the Pcb would not work properly, this is why it took me so long, I had to mess a lot with Origin point and kicad rotation, which is a pain to do becaue my pinky keys are staggered. Furthermore I finished the pcb outline which took me a long time as I tried to find different iterations of the pcb untill it worked.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMxMywicHVyIjoiYmxvYl9pZCJ9fQ==--8686e5facfed0ff4f52a3daf58b2db69deceeaf5/image.png)
+![Screenshot 2025-10-18 210619.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5824021b5fccbc2d70e9397583ee6e694f24ee3c/Screenshot%202025-10-18%20210619.png)
+
+- Next, routing. This by far was the longest step of making the pcb as I had to route about 100 things AND make it pretty. Unfotunetly I do not have a screenshot for this even but you have to believe me. I ended that day with about the pcb being half routed. It took a long time because I had different rotations and I didn't want my pcb to look like cracked glass like some pcbs so it took hours.
+  
+
