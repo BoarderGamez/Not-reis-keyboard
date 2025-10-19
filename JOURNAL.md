@@ -56,3 +56,9 @@ So today I finished the entire pcb + art. At the start of the day I had only a h
 - Art: I put in very aesthetic art to make the keyboard more appealing. This was annoying because I have a double sided keyboard and I have to make reversed copies of those to make it work on both sides. Also ground layer! Here it is: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--d5a26dbaeb8f999d11cfd4e24a62750d7cca8e8d/image.png)
   
 
+## 10/19/2025 12 PM - Put in 3d models   
+
+So basically the Kicad 3d viewer was just the pcb and the hotswap sockets, I did not like this so I put in every switch model manually for each switch, this was an annoying process as you had to do them INDIVIDUALLY and you couldn't do it en masse. which SUCKs ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a7000ce3f155f676e40571cdaab255ae6f0772a/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--085431eb2855b8db050df0bb434624b246030f5f/image.png)
+  
+
