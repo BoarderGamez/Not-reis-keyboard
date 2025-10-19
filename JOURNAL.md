@@ -62,3 +62,9 @@ So basically the Kicad 3d viewer was just the pcb and the hotswap sockets, I did
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--085431eb2855b8db050df0bb434624b246030f5f/image.png)
   
 
+## 10/19/2025 6 PM - Finished the case  
+
+So today I started on the case for the Thingy, but the issue is that I didn't finish because I had a flight. But a stroke of luck came YEY my flight got delayed so I had sufficient time to completely finish the case, it seems to work but only after Ill build it ill see if it works.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--54c8fed3aff4a0a46abaa0600e1fabdef4ffe212/image.png)
+  
+
