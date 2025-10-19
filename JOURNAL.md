@@ -45,5 +45,5 @@ So I spent a LOT of time working on the project so I'm gonna write it step by st
 ![Screenshot 2025-10-18 210619.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5824021b5fccbc2d70e9397583ee6e694f24ee3c/Screenshot%202025-10-18%20210619.png)
 
 - Next, routing. This by far was the longest step of making the pcb as I had to route about 100 things AND make it pretty. Unfotunetly I do not have a screenshot for this even but you have to believe me. I ended that day with about the pcb being half routed. It took a long time because I had different rotations and I didn't want my pcb to look like cracked glass like some pcbs so it took hours.
-  
+PS: I wrote this the day after which is why so many journal in conjunction  
 
