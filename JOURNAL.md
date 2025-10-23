@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **The Not Reis Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/571).
-
-
 ## 10/17/2025 - Started on the keyboard (Almost) Finished the schematics  
 
 So today I started on the schematic for my keyboard. Firstly I decided to make it 40% because, even with nvim it is a lot of work to press the number keys which is a waste of time. Which is why I decided on 40% with 8 modifier keys, 4 on each side. There are some other decisions I made for the keyboard:
@@ -66,5 +62,15 @@ So basically the Kicad 3d viewer was just the pcb and the hotswap sockets, I did
 
 So today I started on the case for the Thingy, but the issue is that I didn't finish because I had a flight. But a stroke of luck came YEY my flight got delayed so I had sufficient time to completely finish the case, it seems to work but only after Ill build it ill see if it works.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--54c8fed3aff4a0a46abaa0600e1fabdef4ffe212/image.png)
+  
+
+## 10/23/2025 - It's FINISHED  
+
+So Here's what I did I first **broke my wrist so this is gonna be short**. But real quick what I did.
+Finalised readme
+Added screenshots of the pcb with the case together in 3d.
+I submitted.
+AND ITS DONEs
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--436bda2181cd53cf6a3b122e89c8416393c326f9/image.png)
   
 
